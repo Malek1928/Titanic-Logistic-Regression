@@ -1,1 +1,1 @@
-# Titanic-Polonomial-Regression
+# Titanic-Logistic-Regression
